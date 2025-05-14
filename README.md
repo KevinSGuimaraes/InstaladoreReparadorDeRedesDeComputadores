@@ -39,6 +39,10 @@ Neste repositório, você encontrará:
 - 📚 Referências e links de apoio  
 - 🎯 Desafios e estudos dirigidos  
 
+# Notas Atividades
+
+![Notas](Arquivos/Notas.png)
+
 ## Como Usar este Repositório
 
 1. Navegue até o diretório correspondente à unidade curricular.
